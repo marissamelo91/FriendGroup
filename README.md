@@ -1,7 +1,10 @@
 # FriendGroup
-
-# Description
 This project provides a RESTful API for a social media application. It allows users to manage their profiles, friends, and thoughts, and to interact with thoughts via reactions.
+
+## Install
+1. Clone the Repository <br>
+2. Install the dependencies - npm install <br>
+3. Start the server - npm start <br>
 
 ## API Endpoints
 User Routes <br>
@@ -91,15 +94,11 @@ thoughtId (String): The ID of the thought.<br>
 reactionId (String): The ID of the reaction to delete.<br>
 Response: Updated thought object.<br>
 
-## Install
-1. Clone the Repository <br>
-2. Install the dependencies - npm install <br>
-3. Start the server - npm start <br>
-
 ## Walkthrough Video
+https://drive.google.com/file/d/1duiTBlYX5oTizoK6dt6FUlA3mT04RtI5/view?usp=sharing
 
 ## Credits
-Class Lectures<br>
-Tutor Session<br>
-Classmates - Thinh Nguyen and Faiza Haque<br>
-AI Tools - CHATGPT, Amazon Q, and Copilot<br>
+* Class Lectures
+* Tutor Session
+* Classmates - Thinh Nguyen and Faiza Haque
+* AI Tools - CHATGPT, Amazon Q, and Copilot
